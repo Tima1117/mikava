@@ -1,0 +1,8 @@
+Demo assets for the MIKAVA estate concept site.
+
+l-*.webp, svc-buy/svc-rent/svc-newbuild/svc-after, villa-living, balcony-view, skyline-sunset — listing photos published by the agency on t.me/mikava_estate (Sep–Dec 2025), used for the demo only.
+office-*.webp, svc-sell, svc-deal — office photos from the agency's Google Maps card.
+reel-*.webp — preview frames of @mikava.estate Instagram posts; reel-3 is a listing photo from the Telegram channel (demo only).
+video/hero.mp4 — Mixkit stock clip 4077 "Hotel zone near the seashore" (Mixkit free licence), trimmed to 11 s.
+keys.webp — Pexels photo 8112187 (https://www.pexels.com/photo/8112187/)
+district-*.webp — Wikimedia Commons, CC BY-SA, authors credited in the district tile on the site.
