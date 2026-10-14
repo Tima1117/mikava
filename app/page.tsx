@@ -57,9 +57,9 @@ const copy = {
     } as ServicesCopy,
     about: {
       eyebrow: "О НАС", title: "Офис на Мазниашвили, где всю команду знают по имени",
-      p1: "MIKAVA estate работает в Батуми из офиса на улице Георгия Мазниашвили, 68 — лофт с кирпичными стенами и панорамными окнами на город. Клиенты в отзывах называют агентов по имени: Алиса, Анна, Роберт, Низам, — и пишут про «семейную атмосферу».",
+      p1: "MIKAVA estate — агентство Александра Микавы. Работаем в Батуми с 2022 года из офиса на улице Георгия Мазниашвили, 68 — лофт с кирпичными стенами и панорамными окнами на город. Клиенты в отзывах называют агентов по имени: Алиса, Анна, Роберт, Низам, — и пишут про «семейную атмосферу».",
       p2: "Мы не берём количеством объявлений. Каждый объект смотрим сами, честно говорим о минусах и ведём сделку до конца: банковский перевод, доверенность, счётчики. Именно за это нас рекомендуют покупатели из Израиля, США, России и Грузии.",
-      facts: ["Офис: ул. Георгия Мазниашвили, 68, Батуми", "Говорим по-русски, по-английски и по-грузински", "Продажа, аренда и новостройки от застройщиков", "Сделки удалённо по доверенности"],
+      facts: ["Офис: ул. Георгия Мазниашвили, 68, Батуми", "Говорим по-русски, по-английски и по-грузински", "Девять застройщиков-партнёров и ипотека в TBC Bank", "Сделки удалённо по доверенности"],
       stats: [["5.0", "рейтинг Google"], ["54", "отзыва"], ["20", "объектов в каталоге"], ["3", "языка"]],
       quote: "«Познакомился со всей командой — все классные, атмосфера почти семейная».", quoteBy: "из отзыва в Google",
       tag: ["Мазниашвили, 68", "Батуми"],
@@ -82,7 +82,7 @@ const copy = {
     } as WhyCopy,
     reviews: {
       eyebrow: "ОТЗЫВЫ", title: "Что пишут клиенты",
-      lede: "Отзывы с карточки агентства в Google Maps. Клиенты называют Алису, Анну, Роберта и Низама по имени — это лучшая проверка агентства.",
+      lede: "Отзывы с карточек агентства в Google Maps (5.0, 54 отзыва) и Яндекс Картах (4.9). Клиенты называют Алису, Роберта, Анну, Низама и директора Александра по имени — это лучшая проверка агентства.",
       google: "Все 54 отзыва в Google", count: "54 отзыва · 5.0", verified: "Отзывы показаны так, как опубликованы; тексты сокращены, переводы — для удобства.", more: "Показать ещё отзывы", less: "Свернуть",
     } as ReviewsCopy,
     reels: {
@@ -145,9 +145,9 @@ const copy = {
     } as ServicesCopy,
     about: {
       eyebrow: "ABOUT", title: "An office on Mazniashvili where the whole team is known by name",
-      p1: "MIKAVA estate works from an office at 68 Giorgi Mazniashvili Street in Batumi, a brick-walled loft with panoramic windows over the city. Clients name the agents in their reviews, Alice, Anna, Robert and Nizam, and write about the family vibe.",
+      p1: "MIKAVA estate is Alexander Mikava's agency. Since 2022 it has worked from an office at 68 Giorgi Mazniashvili Street in Batumi, a brick-walled loft with panoramic windows over the city. Clients name the agents in their reviews, Alice, Anna, Robert and Nizam, and write about the family vibe.",
       p2: "We do not compete on the number of listings. We view every property ourselves, are honest about the downsides and run the deal to the end: bank transfer, power of attorney, meters. That is why buyers from Israel, the USA, Russia and Georgia recommend us.",
-      facts: ["Office: 68 Giorgi Mazniashvili St, Batumi", "We speak Russian, English and Georgian", "Sales, rentals and new builds from developers", "Remote deals by power of attorney"],
+      facts: ["Office: 68 Giorgi Mazniashvili St, Batumi", "We speak Russian, English and Georgian", "Nine partner developers and TBC Bank mortgages", "Remote deals by power of attorney"],
       stats: [["5.0", "Google rating"], ["54", "reviews"], ["20", "properties listed"], ["3", "languages"]],
       quote: "“Met the whole team and they were all awesome! Kind of family vibes.”", quoteBy: "from a Google review",
       tag: ["68 Mazniashvili", "Batumi"],
@@ -170,7 +170,7 @@ const copy = {
     } as WhyCopy,
     reviews: {
       eyebrow: "REVIEWS", title: "What clients say",
-      lede: "Reviews from the agency's Google Maps card. Clients name Alice, Anna, Robert and Nizam, the best check an agency can get.",
+      lede: "Reviews from the agency's Google Maps (5.0, 54 reviews) and Yandex Maps (4.9) cards. Clients name Alice, Robert, Anna, Nizam and director Alexander, the best check an agency can get.",
       google: "All 54 reviews on Google", count: "54 reviews · 5.0", verified: "Reviews are shown as published; texts are shortened, translations are for convenience.", more: "Show more reviews", less: "Show less",
     } as ReviewsCopy,
     reels: {
@@ -233,9 +233,9 @@ const copy = {
     } as ServicesCopy,
     about: {
       eyebrow: "ჩვენ შესახებ", title: "ოფისი მაზნიაშვილზე, სადაც მთელ გუნდს სახელით იცნობენ",
-      p1: "MIKAVA estate ბათუმში გიორგი მაზნიაშვილის ქ. 68-ში მდებარე ოფისიდან მუშაობს — ლოფტი აგურის კედლებითა და პანორამული ფანჯრებით ქალაქზე. კლიენტები შეფასებებში აგენტებს სახელით ასახელებენ: ალისა, ანა, რობერტი, ნიზამი — და „ოჯახურ ატმოსფეროზე“ წერენ.",
+      p1: "MIKAVA estate ალექსანდრე მიკავას სააგენტოა. 2022 წლიდან ბათუმში გიორგი მაზნიაშვილის ქ. 68-ში მდებარე ოფისიდან ვმუშაობთ — ლოფტი აგურის კედლებითა და პანორამული ფანჯრებით ქალაქზე. კლიენტები შეფასებებში აგენტებს სახელით ასახელებენ: ალისა, ანა, რობერტი, ნიზამი — და „ოჯახურ ატმოსფეროზე“ წერენ.",
       p2: "განცხადებების რაოდენობით არ ვიწონებთ თავს. ყველა ობიექტს თავად ვათვალიერებთ, გულწრფელად ვსაუბრობთ მინუსებზე და გარიგებას ბოლომდე მივყავართ: საბანკო გადარიცხვა, მინდობილობა, მრიცხველები. სწორედ ამისთვის გვირჩევენ მყიდველები ისრაელიდან, აშშ-დან, რუსეთიდან და საქართველოდან.",
-      facts: ["ოფისი: გიორგი მაზნიაშვილის ქ. 68, ბათუმი", "ვსაუბრობთ ქართულად, რუსულად და ინგლისურად", "გაყიდვა, ქირა და ახალი კორპუსები დეველოპერებისგან", "დისტანციური გარიგებები მინდობილობით"],
+      facts: ["ოფისი: გიორგი მაზნიაშვილის ქ. 68, ბათუმი", "ვსაუბრობთ ქართულად, რუსულად და ინგლისურად", "ცხრა პარტნიორი დეველოპერი და იპოთეკა TBC Bank-ში", "დისტანციური გარიგებები მინდობილობით"],
       stats: [["5.0", "Google რეიტინგი"], ["54", "შეფასება"], ["20", "ობიექტი კატალოგში"], ["3", "ენა"]],
       quote: "„მთელ გუნდს გავიცანი — ყველა შესანიშნავია, თითქმის ოჯახური ატმოსფეროა“.", quoteBy: "Google-ის შეფასებიდან",
       tag: ["მაზნიაშვილის 68", "ბათუმი"],
@@ -258,7 +258,7 @@ const copy = {
     } as WhyCopy,
     reviews: {
       eyebrow: "შეფასებები", title: "რას წერენ კლიენტები",
-      lede: "შეფასებები სააგენტოს Google Maps-ის ბარათიდან. კლიენტები ალისას, ანას, რობერტსა და ნიზამს სახელით ასახელებენ — ეს სააგენტოს საუკეთესო შემოწმებაა.",
+      lede: "შეფასებები სააგენტოს Google Maps-ის (5.0, 54 შეფასება) და Yandex Maps-ის (4.9) ბარათებიდან. კლიენტები ალისას, რობერტს, ანას, ნიზამსა და დირექტორ ალექსანდრეს სახელით ასახელებენ — ეს სააგენტოს საუკეთესო შემოწმებაა.",
       google: "ყველა 54 შეფასება Google-ში", count: "54 შეფასება · 5.0", verified: "შეფასებები ნაჩვენებია ისე, როგორც გამოქვეყნდა; ტექსტები შემოკლებულია, თარგმანი — მოხერხებულობისთვის.", more: "მეტი შეფასება", less: "დახურვა",
     } as ReviewsCopy,
     reels: {
